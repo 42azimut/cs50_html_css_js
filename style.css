@@ -1,0 +1,21 @@
+body {
+  background-color: cornflowerblue;
+  color: aliceblue;
+  font-weight: bolder;
+}
+
+.centerd {
+  text-align: center;
+}
+
+.large {
+  font-size: 40px;
+}
+
+.medium {
+  font-size: medium;
+}
+
+.small {
+  font-size: small;
+}
